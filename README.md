@@ -1,6 +1,6 @@
 # 👨‍💻 LeetCode Solutions
 
-![Language](https://img.shields.io/badge/language-Python%20%7C%20C%2B%2B%20%7C%20JavaScript-blue)
+![Language](https://img.shields.io/badge/language-Java-ED8B00)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-success)
 
